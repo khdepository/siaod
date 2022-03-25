@@ -35,6 +35,6 @@ int main() {
     cout<<endl<<"key: ";
     cin>>key;
     
-    cout<<"index of "<<key<<" is "<<barrierSearch(arr,n,key);
+    cout<<"index of "<<key<<" is "<<barrierSearch(arr,n,key)+1;
     return 0;
 }
