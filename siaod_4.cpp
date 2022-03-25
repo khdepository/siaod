@@ -3,7 +3,6 @@ using namespace std;
 
 //ф-ция поиска
 int barrierSearch(int *x, int n, int key){
-    x=(int*)realloc(x,(n+1)*sizeof(int));
     x[n]=key;
     int i=0;
     while(x[i]!=key)i++;
