@@ -6,7 +6,7 @@ int barrierSearch(int *x, int n, int key){
     x[n]=key;
     int i=0;
     while(x[i]!=key)i++;
-    return i<n?i:-1;
+    return i;
 }
 
 int main() {
