@@ -26,16 +26,6 @@ int main() {
     }
     cout<<endl;
     
-    //сортировка
-    for (i=1;i<n;i++)
-    {
-        buff=arr[i];
-        for (j=i-1;j>=0 && arr[j]>buff;j--)
-            arr[j+1]=arr[j];
-
-        arr[j+1]=buff;
-    }
-    
     //вывод массива
     for (int i=0;i<n;i++){
         cout<<arr[i]<<" ";
