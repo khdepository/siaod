@@ -7,9 +7,7 @@ using namespace std;
 
 int hashxd(string x)
 {
-    int hashxd=x[0];
-    if (x.length()>=11){int hashxd=x[0]+x[1]+x[x.length()-1]+x[x.length()-5]+x[x.length()-9];}
-    else if (x.length()>=3){int hashxd=x[0]+x[1]+x[x.length()-1];}
+    int hashxd=x[0]+x[1]+x[x.length()-1];
     return hashxd;
 }
 
