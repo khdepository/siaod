@@ -7,8 +7,8 @@ using namespace std;
 
 int hashxd(string x)
 {
-    int hashxd=x[0]+x[1]+x[x.length()-1];
-    return hashxd;
+    int size=x.length();
+    return hash<int>()(size);
 }
 
 int main()
@@ -25,9 +25,9 @@ int main()
     }
     cout<<"key: ";
     string key;
-    cin>>key;
+    getline(cin, key);
     
-    int keyhash=hashxd(key);
+    int keyhash=hashxd(key)+1;
     i=0;
     while(i<=(sizeof arr / sizeof arr[0]))
     {
