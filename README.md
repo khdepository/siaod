@@ -37,3 +37,43 @@
 Практическая работа № 8; Линейный список стек и его применение;
 
 **8.1	Сложение двух больших чисел**;
+
+### [siaod_9.cpp](https://github.com/khdepository/siaod/blob/main/siaod_9.cpp)
+Практическая работа № 9; Линейный список Очередь;
+
+**9.1**;
+
+### [siaod_10.cpp](https://github.com/khdepository/siaod/blob/main/siaod_10.cpp)
+Практическая работа № 10; Бинарное дерево поиска. AVL дерево;
+
+**10.2**;
+
+### [siaod_11.cpp](https://github.com/khdepository/siaod/blob/main/siaod_11.cpp)
+Практическая работа № 11; Хеширование - прямой доступ к данным;
+
+**11.4**;
+
+### [siaod_12.cpp](https://github.com/khdepository/siaod/blob/main/siaod_12.cpp)
+Практическая работа № 12; Внешние структуры данных - файлы  и алгоритмы их обработки;
+
+**12**;
+
+### [siaod_13.cpp](https://github.com/khdepository/siaod/blob/main/siaod_13.cpp)
+Практическая работа № 13; Основные алгоритмы работы с графами;
+
+**13.2**;
+
+### [siaod_14.cpp](https://github.com/khdepository/siaod/blob/main/siaod_14.cpp)
+Практическая работа № 14; Алгоритмы сжатия и кодирования данных;
+
+**14**;
+
+### [siaod_15.cpp](https://github.com/khdepository/siaod/blob/main/siaod_15.cpp)
+Практическая работа № 15; Стратегии и методы построения алгоритмов;
+
+**15.2**;
+
+### [siaod_16.cpp](https://github.com/khdepository/siaod/blob/main/siaod_16.cpp)
+Практическая работа № 16; Метод линейного программирования;
+
+**16.3**;
