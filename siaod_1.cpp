@@ -14,10 +14,6 @@ void Sort(int* arr,int n){
 			arr[j]=tmp;
 		}
 	}
-	for (int i = 0; i < n; i++)
-		cout << arr[i] << "  ";
-		cout << endl;
-	cout<<counter<<endl;
 	end = clock();
 	printf("time %.4f(s)\n", ((double)end - start) / ((double)CLOCKS_PER_SEC));
 }
